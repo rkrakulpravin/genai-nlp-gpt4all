@@ -1,0 +1,4 @@
+provider_name,npi,taxonomy,eligibility_start,eligibility_end
+Dr. Smith,1234567890,123456ZZ1,01/01/2020,12/31/2025
+Dr. Jones,2345678901,987654ZZ2,06/15/2021,06/14/2024
+Dr. Lee,3456789012,123456ZZ1,01/01/2023,12/31/2026
